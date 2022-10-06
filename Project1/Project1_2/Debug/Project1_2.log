@@ -1,0 +1,9 @@
+﻿  Employee.cpp
+C:\Users\ycohe\Documents\Visual Studio 2019\semestre 2\Project1_2\Employee.cpp(39,22): warning C4244: '+=' : conversion de 'double' en 'float', perte possible de données
+C:\Users\ycohe\Documents\Visual Studio 2019\semestre 2\Project1_2\Employee.cpp(44,45): warning C4244: '+=' : conversion de 'double' en 'float', perte possible de données
+C:\Users\ycohe\Documents\Visual Studio 2019\semestre 2\Project1_2\Employee.cpp(49,55): warning C4244: '+=' : conversion de 'double' en 'float', perte possible de données
+C:\Users\ycohe\Documents\Visual Studio 2019\semestre 2\Project1_2\Employee.cpp(54,70): warning C4244: '+=' : conversion de 'double' en 'float', perte possible de données
+C:\Users\ycohe\Documents\Visual Studio 2019\semestre 2\Project1_2\Employee.cpp(58,83): warning C4244: '+=' : conversion de 'double' en 'float', perte possible de données
+  Source1_1.cpp
+  Génération de code en cours...
+  Project1_2.vcxproj -> C:\Users\ycohe\Documents\Visual Studio 2019\semestre 2\Project1_2\Debug\Project1_2.exe

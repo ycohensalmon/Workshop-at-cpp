@@ -1,0 +1,5 @@
+﻿  List.cpp
+  Source5_2.cpp
+  Génération de code en cours...
+C:\Users\ycohe\Documents\Visual Studio 2019\Semestre 2\Project5\Project5_2\List.cpp(113): warning C4715: 'List::operator=' : les chemins de contrôle ne retournent pas tous une valeur
+  Project5_2.vcxproj -> C:\Users\ycohe\Documents\Visual Studio 2019\Semestre 2\Project5\Project5_2\Debug\Project5_2.exe

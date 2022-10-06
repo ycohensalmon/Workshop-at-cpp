@@ -1,0 +1,5 @@
+﻿  FullTime.cpp
+C:\Users\ycohe\Documents\Visual Studio 2019\Semestre 2\Project6\Project6_1\FullTime.cpp(44,30): warning C4244: 'argument' : conversion de 'int' en 'const float', perte possible de données
+  Source6_1.cpp
+  Génération de code en cours...
+  Project6_1.vcxproj -> C:\Users\ycohe\Documents\Visual Studio 2019\Semestre 2\Project6\Project6_1\Debug\Project6_1.exe
